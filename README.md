@@ -9,7 +9,7 @@ Automation
 
 Data Analysis
 -------------
-*My numeric csv files plotter, which plots a set of CSV files in a set of diagrams (one for each column)
+*My numeric csv files plotter which plots a set of CSV files in a set of diagrams (one for each column)
 in order to visually inspect the differences between the data in them.*
 
 
